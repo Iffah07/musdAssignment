@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieRater</string>
+    <string name="movie_name">Name</string>
+    <string name="movie_desc">Description</string>
+    <string name="language">Language</string>
+    <string name="english_text">English</string>
+    <string name="chinese_text">Chinese</string>
+    <string name="malay_text">Malay</string>
+    <string name="tamil_text">Tamil</string>
+    <string name="release_date">Release date</string>
+    <string name="unsuitable_for_audience_text">Not suitable for all audience</string>
+    <string name="violence_text">Violence</string>
+    <string name="lang_used_text">Language used</string>
+    <string name="addMovie_text">ADD MOVIE</string>
+
+</resources>
