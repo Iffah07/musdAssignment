@@ -14,7 +14,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Enter your review for the movie: Venom"
-    />
+            android:textSize="20dp"/>
 
     <RatingBar
             android:id="@+id/ratingBar"
@@ -27,17 +27,22 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Share your view on the show"
+            android:textSize="20dp"
     />
     <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-    >
+            android:orientation="vertical"
+            >
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+        />
         <EditText
                 android:id="@+id/sharedView"
                 android:inputType="text"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-
         />
     </LinearLayout>
 

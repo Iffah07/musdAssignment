@@ -12,5 +12,6 @@
     <string name="violence_text">Violence</string>
     <string name="lang_used_text">Language used</string>
     <string name="addMovie_text">ADD MOVIE</string>
-
+    <string name="tvDemo">You have not added a movie \n Long Press me to add a movie</string>
+    <string name="reviews">No Reviews yet \n Long press here to add your review</string>
 </resources>

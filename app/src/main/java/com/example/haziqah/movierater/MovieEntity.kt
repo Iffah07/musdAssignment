@@ -8,5 +8,4 @@ class MovieEntity (name:String, desc:String, lang:String, date:String, suitable:
     var movieSuitable = suitable;
 
 
-
 }
